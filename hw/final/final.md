@@ -5,7 +5,7 @@
 參考老師的範例並修改
 
 習題 3: 請寫出下列函數的梯度算式  https://github.com/921006vicky/_alg/blob/master/hw/03/112630.jpg
-參考沈心怡
+參考沈心怡，全部一樣
 
 請用黎曼積分和蒙地卡羅法，分別寫程式計算下列函數的積分  https://github.com/921006vicky/_alg/blob/master/hw/04/04.py
 參考沈心怡，並用chatgpt理解
